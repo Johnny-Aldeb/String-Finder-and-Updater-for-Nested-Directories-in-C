@@ -1,1 +1,2 @@
 # String-Finder-and-Updater-for-Nested-Directories-in-C
+A search and replace application in C. The program will take a single command line argument as input, which will be interpreted as a text string. It will then open and search through all the text files in the current directory and its subdirectories for instances of the target string. When the string is found, it will be modified to be displayed in all uppercase letters. The program will keep track of the number of changes made in each file and generate a report at the end
