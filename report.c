@@ -16,13 +16,6 @@ void report(int num, char str[]){
 }
 
 
-    
-
-
-
-
-
-
 #endif 
 
 
@@ -31,26 +24,3 @@ void report(int num, char str[]){
 
 
 
-// int sortedNum[7] = {0};
-// char sortedFile[7];
-// int bigIndex = 0;
-// int temp = 0;
-// int x = -1;
-// for (int i = 0; i < 7; i++) {
-//     for (int j = 1; j < i; j++) {
-
-//         if(number[j]<number[i]) {
-//             temp = number[i];
-//             number[i] = number[j];
-//             sortedNum[i] = number[j];
-//             number[j] = temp;
-//             sortedFile[i] = *arr[j];
-//         }
-
-//     }
-
-//     for (int i = 0; i < numoffile; i++){
-//        printf("a[%d] = %d     %c\n", i, sortedNum[i], sortedFile[i]); 
-    
-    // sortedNum[i] = x;
-    // sortedFile[i] = arr[bigIndex];
